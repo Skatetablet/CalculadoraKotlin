@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculadoraKotlin</string>
+    <string name="txt_valor1">Ingrese el primer valor</string>
+    <string name="txt_valor2">Ingrese el segundo valor</string>
+</resources>
